@@ -15,7 +15,7 @@ const TopNav = () => {
                     <Link to="/" className='link'>
                         <div className="logo">TeeRex <span>Store</span></div>
                     </Link>
-                    <a href="https://github.com/LalitKumar234/TeeRex-Store" target='_blank' className='github link'>
+                    <a href="https://github.com/hareeshdwivedi/terex-store" target='_blank' className='github link'>
                         <BsGithub size={25} />
                     </a>
 
